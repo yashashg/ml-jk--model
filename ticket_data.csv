@@ -1,0 +1,135 @@
+﻿Description,Category
+"The paper starts to go into the printer, then stops.",Printer 
+"I hear a crumpling sound, paper gets stuck",Printer 
+Paper is stuck inside the printer,Printer 
+Paper is crumpled in the paper tray,Printer 
+Paper gets stuck in the paper tray,Printer 
+There is a paper jam ,Printer 
+Printer is facing a paper jam ,Printer 
+Printer is unresponsive,Printer 
+Printer won't print,Printer 
+Improper print quality,Printer 
+Bad print quality,Printer 
+Poor print quality ,Printer 
+Image quality is bad,Printer 
+There are lines in the images,Printer 
+Colour seems to be dull,Printer 
+Pages are streaked,Printer 
+Pages are blotchy,Printer 
+Pages are faded,Printer 
+Print is blotchy,Printer 
+Blank sheet of paper prints after each time I print something,Printer 
+Unnecessary blank sheet is getting printed,Printer 
+Only half a page is getting printed,Printer 
+Pixelated Photos,Printer 
+Prints are lighter than expected and/or contain white spots,Printer 
+Print contains white spots,Printer 
+Print has puddles of ink,Printer 
+Vertical lines are jagged,Printer 
+Colors are missing,Printer 
+Prints have heavy band of ink,Printer 
+Printing is printing too slow,Printer 
+Printing is taking a lot time,Printer 
+Printing is not connecting to the network,Printer 
+There are certain network issues with the printer,Printer 
+Black and white images have colors or hints of color,Printer 
+Repeating streaks,Printer 
+Images are cut off,Printer 
+Grey Print ,Printer 
+Gray Background,Printer 
+Regularly spaced spots at large intervals,Printer 
+Regularly spaced spots at small intervals,Printer 
+Split Graphic Image,Printer 
+Duplex printing error,Printer 
+Printed image is dull,Printer 
+Printer has run out of ink,Printer 
+Low toner error,Printer 
+"Giving low toner error, but you just replaced the toner.",Printer 
+Improper scanning,Printer 
+Scanner not working,Printer 
+Issues with scanning,Printer 
+I want to reset my password,Account Management
+I forgot my password,Account Management
+I am unable to login,Account Management
+I want to change my password,Account Management
+I am unable to access my account,Account Management
+I have lost my account,Account Management
+My account is locked,Account Management
+Help me unlock my account,Account Management
+Help me reset my AD ID password reset,Account Management
+I cannot login in my account,Account Management
+Lost my account,Account Management
+Access to my account is denied,Account Management
+Issue with my account,Account Management
+Password recovery,Account Management
+Account recovery,Account Management
+Can't sign in on my account,Account Management
+Unable to sign in,Account Management
+Email not configuring on mobile,Email Management
+Email not configuring on MAC,Email Management
+Email not configuring on Android,Email Management
+Email not configuring on Apple,Email Management
+Email not configuring on Windows,Email Management
+Email configuration on MAC,Email Management
+Email configuration on Android,Email Management
+Email configuration on Apple,Email Management
+Email configuration on mobile,Email Management
+Help me configure my email on my laptop,Email Management
+Unable to configure my email account,Email Management
+Unable to access my email,Email Management
+I accidentally deleted an email,Email Management
+Recover recently deleted email,Email Management
+Recover deleted email,Email Management
+Unable to recover deleted emails,Email Management
+Outlook send error,Email Management
+Outlook receive error,Email Management
+Outlook sync error,Email Management
+I didn't receive an email someone sent to my Outlook.com account,Email Management
+Not receiving emails,Email Management
+I didn't receive an email someone sent me,Email Management
+Outlook is not letting me send an email,Email Management
+Not able to send an email,Email Management
+Not able to send an email from a mobile device,Email Management
+Not able to send an email from my computer,Email Management
+Outlook email account is blocked,Email Management
+Email account is blocked,Email Management
+Unblock email account,Email Management
+I want to replace my laptop,Laptop/Desktop Procurement
+Laptop is old and outdated,Laptop/Desktop Procurement
+Laptop has poor battery life,Laptop/Desktop Procurement
+I press the power button and nothing happens,Laptop/Desktop Procurement
+Laptop screen is broken,Laptop/Desktop Procurement
+Coffee spilled on laptop,Laptop/Desktop Procurement
+Laptop is overheating ,Laptop/Desktop Procurement
+Laptop is damaged,Laptop/Desktop Procurement
+Screen damaged,Laptop/Desktop Procurement
+Outdated OS,Laptop/Desktop Procurement
+I need a laptop,Laptop/Desktop Procurement
+I just joined the organization and require a laptop,Laptop/Desktop Procurement
+Permanent laptop not assigned yet,Laptop/Desktop Procurement
+Laptop is stolen,Laptop/Desktop Procurement
+Report stolen laptop,Laptop/Desktop Procurement
+"Require a new laptop, as previous laptop is stolen",Laptop/Desktop Procurement
+I misplaced my laptop,Laptop/Desktop Procurement
+Laptop lost,Laptop/Desktop Procurement
+Unable to find my  laptop,Laptop/Desktop Procurement
+I require a new mouse,Hardware/Asset Procurement 
+One of the button in my mouse is not working,Hardware/Asset Procurement 
+Laptop touchpad not working,Hardware/Asset Procurement 
+Cursor freezing,Hardware/Asset Procurement 
+Cursor stops moving of mouse,Hardware/Asset Procurement 
+Mouse broke,Hardware/Asset Procurement 
+Faulty mouse,Hardware/Asset Procurement 
+Unsmooth move of cursor,Hardware/Asset Procurement 
+I require a new keyboard,Hardware/Asset Procurement 
+Keys not working properly,Hardware/Asset Procurement 
+Keys broken,Hardware/Asset Procurement 
+Unresponsive,Hardware/Asset Procurement 
+Faulty cable,Hardware/Asset Procurement 
+I require a new headset,Hardware/Asset Procurement 
+I require extra headset,Hardware/Asset Procurement 
+Faulty headset,Hardware/Asset Procurement 
+Sound cracks,Hardware/Asset Procurement 
+Mic not working,Hardware/Asset Procurement 
+Sound is distorted,Hardware/Asset Procurement 
+Ears hurt after wearing for long,Hardware/Asset Procurement 
