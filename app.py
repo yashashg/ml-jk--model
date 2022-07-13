@@ -18,7 +18,7 @@ class Users(Resource):
         # text = p.convert(args['userId'])
         print (args['userId'])
         userId=[args['userId']]
-        df = pd.read_csv(r"ticket_data.csv", encoding="utf8")
+        df = pd.read_csv(r"incident.csv", encoding="utf8")
         y = df['Category']
         encoder = LabelEncoder()
         y = encoder.fit_transform(y)
